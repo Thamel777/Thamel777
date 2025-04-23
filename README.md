@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 📫 How to reach me **nimsarathamel@outlook.com**
+- 📫 How to reach me **nimsarathamel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
