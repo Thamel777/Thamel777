@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 3rd-year IT undergraduate at BCI Campus, Negombo  
+- 🎓 Final-year IT undergraduate at BCI Campus, Negombo  
 - 🚀 Building cross-platform mobile & web applications  
 - 🤖 Passionate about Artificial Intelligence and Machine Learning  
 - 💡 Always exploring new tech, tools, and ideas  
