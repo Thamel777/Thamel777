@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nimsara Thamel</h1>
-<h3 align="center">🎓 3rd Year IT Undergraduate | 💻 Full-Stack Developer | 🤖 AI & ML Enthusiast</h3>
+<h3 align="center">🎓 Final Year IT Undergraduate | 💻 Fullstack / Web / Cloud Software Engineer | 🤖 AI & ML Enthusiast</h3>
 
 ---
 
