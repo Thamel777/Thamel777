@@ -19,37 +19,69 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25764308)
 
 ---
+<!-- Technologies & Tools -->
+<h2>🧠 Technologies & Tools</h2>
 
-### 🛠️ Technologies & Tools
+<!-- Web Development -->
+<h3>Web Development</h3>
+<table>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/html5/E34F26" width="22" height="22" alt="HTML5"> <sub>HTML5</sub></td>
+    <td><img src="https://cdn.simpleicons.org/css/1572B6" width="22" height="22" alt="CSS3"> <sub>CSS</sub></td>
+    <td><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="22" height="22" alt="JavaScript"> <sub>JavaScript</sub></td>
+    <td><img src="https://cdn.simpleicons.org/react/61DAFB" width="22" height="22" alt="React"> <sub>React</sub></td>
+    <td><img src="https://cdn.simpleicons.org/node.js/339933" width="22" height="22" alt="Node.js"> <sub>Node.js</sub></td>
+    <td><img src="https://cdn.simpleicons.org/express/000000" width="22" height="22" alt="Express.js"> <sub>Express.js</sub></td>
+    <td><img src="https://cdn.simpleicons.org/mongodb/47A248" width="22" height="22" alt="MongoDB"> <sub>MongoDB</sub></td>
+    <td><img src="https://cdn.simpleicons.org/laravel/FF2D20" width="22" height="22" alt="Laravel"> <sub>Laravel</sub></td>
+    <td><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="22" height="22" alt="Tailwind CSS"> <sub>Tailwind</sub></td>
+    <td><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="22" height="22" alt="Firebase"> <sub>Firebase</sub></td>
+    <td><img src="https://cdn.simpleicons.org/dotnet/512BD4" width="22" height="22" alt=".NET"> <sub>.NET</sub></td>
+  </tr>
+</table>
 
-#### Web Development  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss)
+<!-- Mobile Development -->
+<h3>Mobile Development</h3>
+<table>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/flutter/02569B" width="22" height="22" alt="Flutter"> <sub>Flutter</sub></td>
+    <td><img src="https://cdn.simpleicons.org/dart/0175C2" width="22" height="22" alt="Dart"> <sub>Dart</sub></td>
+    <td><img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="22" height="22" alt="Kotlin"> <sub>Kotlin</sub></td>
+  </tr>
+</table>
 
-#### Mobile Development  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)
+<!-- Programming Languages -->
+<h3>Programming Languages</h3>
+<table>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/python/3776AB" width="22" height="22" alt="Python"> <sub>Python</sub></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="22" height="22" alt="Java"> <sub>Java</sub></td>
+    <td><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="22" height="22" alt="C++"> <sub>C++</sub></td>
+    <td><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="22" height="22" alt="JavaScript"> <sub>JavaScript</sub></td>
+  </tr>
+</table>
 
-#### Programming Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+<!-- Data & ML -->
+<h3>Data &amp; ML</h3>
+<table>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="22" height="22" alt="TensorFlow"> <sub>TensorFlow</sub></td>
+    <td><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="22" height="22" alt="PyTorch"> <sub>PyTorch</sub></td>
+    <td><img src="https://cdn.simpleicons.org/pandas/150458" width="22" height="22" alt="Pandas"> <sub>Pandas</sub></td>
+    <td><img src="https://cdn.simpleicons.org/apache/DE350B" width="22" height="22" alt="PySpark"> <sub>PySpark</sub></td>
+  </tr>
+</table>
 
-#### Data & ML  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![Seaborn](https://img.shields.io/badge/-Seaborn-9A9A9A?style=flat)
-
-#### Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+<!-- Tools -->
+<h3>Tools</h3>
+<table>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/git/F05032" width="22" height="22" alt="Git"> <sub>Git</sub></td>
+    <td><img src="https://cdn.simpleicons.org/figma/F24E1E" width="22" height="22" alt="Figma"> <sub>Figma</sub></td>
+    <td><img src="https://cdn.simpleicons.org/postman/FF6C37" width="22" height="22" alt="Postman"> <sub>Postman</sub></td>
+    <td><img src="https://cdn.simpleicons.org/mysql/4479A1" width="22" height="22" alt="MySQL"> <sub>MySQL</sub></td>
+  </tr>
+</table>
 
 ---
 
