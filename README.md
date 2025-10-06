@@ -30,12 +30,11 @@
     <td><img src="https://cdn.simpleicons.org/css/1572B6" width="22" height="22" alt="CSS3"> <sub>CSS</sub></td>
     <td><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="22" height="22" alt="JavaScript"> <sub>JavaScript</sub></td>
     <td><img src="https://cdn.simpleicons.org/react/61DAFB" width="22" height="22" alt="React"> <sub>React</sub></td>
+    <td><img src="https://cdn.simpleicons.org/next.js/000000" width="22" height="22" alt="Next.js"> <sub>Next.js</sub></td>
     <td><img src="https://cdn.simpleicons.org/node.js/339933" width="22" height="22" alt="Node.js"> <sub>Node.js</sub></td>
     <td><img src="https://cdn.simpleicons.org/express/000000" width="22" height="22" alt="Express.js"> <sub>Express.js</sub></td>
-    <td><img src="https://cdn.simpleicons.org/mongodb/47A248" width="22" height="22" alt="MongoDB"> <sub>MongoDB</sub></td>
     <td><img src="https://cdn.simpleicons.org/laravel/FF2D20" width="22" height="22" alt="Laravel"> <sub>Laravel</sub></td>
     <td><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="22" height="22" alt="Tailwind CSS"> <sub>Tailwind</sub></td>
-    <td><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="22" height="22" alt="Firebase"> <sub>Firebase</sub></td>
     <td><img src="https://cdn.simpleicons.org/dotnet/512BD4" width="22" height="22" alt=".NET"> <sub>.NET</sub></td>
   </tr>
 </table>
@@ -79,7 +78,18 @@
     <td><img src="https://cdn.simpleicons.org/git/F05032" width="22" height="22" alt="Git"> <sub>Git</sub></td>
     <td><img src="https://cdn.simpleicons.org/figma/F24E1E" width="22" height="22" alt="Figma"> <sub>Figma</sub></td>
     <td><img src="https://cdn.simpleicons.org/postman/FF6C37" width="22" height="22" alt="Postman"> <sub>Postman</sub></td>
+  </tr>
+</table>
+
+<!-- Databases -->
+<h3>Databases</h3>
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="22" height="22" alt="MsSQL"> <sub>MsSQL</sub></td>
     <td><img src="https://cdn.simpleicons.org/mysql/4479A1" width="22" height="22" alt="MySQL"> <sub>MySQL</sub></td>
+    <td><img src="https://cdn.simpleicons.org/mongodb/47A248" width="22" height="22" alt="MongoDB"> <sub>MongoDB</sub></td>
+    <td><img src="https://cdn.simpleicons.org/sqlite/003B57" width="22" height="22" alt="SQLite"> <sub>SQLite</sub></td>
+    <td><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="22" height="22" alt="Firebase"> <sub>Firebase</sub></td>
   </tr>
 </table>
 
