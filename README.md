@@ -57,6 +57,8 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="22" height="22" alt="Java"> <sub>Java</sub></td>
     <td><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="22" height="22" alt="C++"> <sub>C++</sub></td>
     <td><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="22" height="22" alt="JavaScript"> <sub>JavaScript</sub></td>
+    <td><img src="https://cdn.simpleicons.org/php/777BB4" width="22" height="22" alt="PHP"> <sub>PHP</sub></td>
+    <td><img src="https://cdn.simpleicons.org/csharp/512BD4" width="22" height="22" alt="C#"> <sub>C#</sub></td>
   </tr>
 </table>
 
@@ -107,13 +109,13 @@
 
 <p align="center">
   <a href="https://github.com/thamel777">
-    <img src="https://github-readme-stats.vercel.app/api?username=thamel777&show_icons=true&theme=transparent&hide_title=true&hide_border=true&card_width=400&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=thamel777&show_icons=true&theme=transparent&hide_title=true&hide_border=true&card_width=400&include_all_commits=true&count_private=true" alt="Nimsara's GitHub Stats" />
   </a>
   <a href="https://github.com/thamel777">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamel777&layout=compact&theme=transparent&hide_border=true&langs_count=8&card_width=320" alt="Top Languages" />
   </a>
   <a href="https://github.com/thamel777">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=thamel777&theme=transparent&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/streak-stats/?user=thamel777&theme=transparent&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
