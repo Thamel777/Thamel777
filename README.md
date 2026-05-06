@@ -105,17 +105,41 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Status
 
 <p align="center">
   <a href="https://github.com/thamel777">
-    <img src="https://github-readme-stats.vercel.app/api?username=thamel777&show_icons=true&theme=transparent&hide_title=true&hide_border=true&card_width=400&include_all_commits=true&count_private=true" alt="Nimsara's GitHub Stats" />
+    <img src="https://github-profile-trophy.vercel.app/?username=thamel777&theme=flat&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/thamel777">
+    <img src="https://github-readme-stats.vercel.app/api?username=thamel777&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
   </a>
   <a href="https://github.com/thamel777">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamel777&layout=compact&theme=transparent&hide_border=true&langs_count=8&card_width=320" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamel777&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/thamel777">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thamel777&theme=react-dark&hide_border=true" alt="GitHub streak" />
   </a>
   <a href="https://github.com/thamel777">
-    <img src="https://github-readme-stats.vercel.app/api/streak-stats/?user=thamel777&theme=transparent&hide_border=true" alt="GitHub Streak" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=thamel777&theme=react-dark" alt="contribution graph" />
+  </a>
+</p>
+
+---
+
+### 🧭 Top languages in my repos
+
+Below is a live summary of the primary languages I use across my public repositories. This updates automatically based on my GitHub activity.
+
+<p align="center">
+  <a href="https://github.com/thamel777">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamel777&layout=compact&hide_border=true&langs_count=8" alt="Top languages across repos" />
   </a>
 </p>
 
