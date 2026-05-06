@@ -115,19 +115,7 @@
 
 <p align="center">
   <a href="https://github.com/thamel777">
-    <img src="https://github-readme-stats.vercel.app/api?username=thamel777&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/thamel777">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamel777&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/thamel777">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=thamel777&theme=react-dark&hide_border=true" alt="GitHub streak" />
-  </a>
-  <a href="https://github.com/thamel777">
-    <img src="https://activity-graph.herokuapp.com/graph?username=thamel777&theme=react-dark" alt="contribution graph" />
   </a>
 </p>
 
