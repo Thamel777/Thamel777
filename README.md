@@ -109,7 +109,7 @@
 
 <p align="center">
   <a href="https://github.com/thamel777">
-    <img src="https://github-profile-trophy.vercel.app/?username=thamel777&theme=flat&margin-w=15&margin-h=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=thamel777&theme=dark&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
 </p>
 
@@ -127,7 +127,7 @@ Below is a live summary of the primary languages I use across my public reposito
 
 <p align="center">
   <a href="https://github.com/thamel777">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamel777&layout=compact&hide_border=true&langs_count=8" alt="Top languages across repos" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamel777&theme=dark&layout=compact&hide_border=true&langs_count=8" alt="Top languages across repos" />
   </a>
 </p>
 
