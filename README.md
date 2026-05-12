@@ -109,13 +109,13 @@
 
 <p align="center">
   <a href="https://github.com/thamel777">
-    <img src="https://github-profile-trophy.vercel.app/?username=thamel777&theme=dark&margin-w=15&margin-h=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=thamel777&theme=onedark&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/thamel777">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thamel777&theme=react-dark&hide_border=true" alt="GitHub streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thamel777&theme=dark&hide_border=true" alt="GitHub streak" />
   </a>
 </p>
 
